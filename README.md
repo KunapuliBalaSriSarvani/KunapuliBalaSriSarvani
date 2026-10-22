@@ -65,6 +65,6 @@ My Calibo AI Academy training is currently ongoing, with **Phase 2 in progress**
 I'm interested in learning, collaborating, and building useful AI and software solutions.
 
 - GitHub: https://github.com/KunapuliBalaSriSarvani
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/sarvani-kbs
 
 *Learning continuously. Building thoughtfully. Connecting technology with real-world needs.* 
